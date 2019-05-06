@@ -24,6 +24,6 @@ npm run test
 ```
 npm run lint
 ```
+### Screenshots
+![Homepage](http://i64.tinypic.com/1ze8f86.jpg)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
