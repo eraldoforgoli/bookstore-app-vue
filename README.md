@@ -10,20 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 ### Screenshots
 ![Homepage](http://i64.tinypic.com/1ze8f86.jpg)
 
